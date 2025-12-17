@@ -1,0 +1,19 @@
+.input-container {
+  display: flex;
+  background-color: white;
+  gap: 10px;
+}
+
+.text-input {
+  width: 180px;
+}
+
+.date-input {
+  width: 180px;
+}
+
+.add-button {
+  background-color: green;
+  color: white;
+  border: none;
+}
