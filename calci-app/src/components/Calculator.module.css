@@ -1,0 +1,8 @@
+.display {
+  height: 50px;
+  border: 2px solid pink;
+  margin-bottom: 15px;
+  font-size: 22px;
+  padding: 10px;
+  text-align: right;
+}
